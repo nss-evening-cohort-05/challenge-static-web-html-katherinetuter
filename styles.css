@@ -3,8 +3,23 @@
 	padding: 0;
 }
 
-.headimg {
+.header-img {
+	max-width: 100%;
+	position: absolute;
+}
 
+.head-nav h1 {
+	z-index: 100;
+	position: absolute;
+	font-family: helvetica;
+	font-size: 4em;
+	font-weight: bold;
+	font-kerning: 5px;
+	text-align: center;
+	text 
+	color: #ffffff;
+	left: 150px;
+	top: 150px;
 }
 h2 {
 	font-family: "Permanent Marker", cursive;
@@ -22,5 +37,11 @@ footer {
 	font-family: sans-serif;
 	font-size: 1em;
 	text-align: center;
-	background-color: #B9A394;
+	background-color: #D4C5C7;
+}
+
+.social-icons {
+	margin-left: 5px;
+	margin-bottom: 5px;
+	
 }
