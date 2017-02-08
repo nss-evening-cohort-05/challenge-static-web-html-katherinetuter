@@ -72,10 +72,11 @@ p {
 }
 
 footer {
-	font-family: sans-serif;
+	font-family: avenir next;
 	font-size: 1em;
 	text-align: center;
 	background-color: #818D92;
+	padding-top: -10px;
 }
 
 .social-icons {
